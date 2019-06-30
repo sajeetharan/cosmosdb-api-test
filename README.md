@@ -1,4 +1,4 @@
-# Cosmos DB postman collection
+# Cosmos DB api testing 
 This is a fork from [this original repo](https://github.com/MicrosoftCSA/documentdb-postman-collection). Main changes include:
 1. Updated to the latest [API version](https://docs.microsoft.com/en-us/rest/api/cosmos-db/#supported-rest-api-versions) of 2018-12-31.
 2. Focused more on document operations than database and collection operations.
